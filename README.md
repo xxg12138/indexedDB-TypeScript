@@ -1,6 +1,6 @@
-# indexedDB
+# indexedDB-TypeScript
 
-# 这是一个基于 TypeScript 的 indexedDB 例子：：
+# 这是一个基于 TypeScript 的 indexedDB ：
 
 打包项目：
 
